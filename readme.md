@@ -5,7 +5,7 @@
 <p align="center">Clique para ver 👇</p>
 
 <p align="center">
-    <a href="">
+    <a href="https://ebac-modulo-jquery.vercel.app/">
         <img src="images/galeria de fotos.png" alt="Galeria de fotos"></img>
     </a>
 </p>
